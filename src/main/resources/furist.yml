@@ -1,0 +1,8 @@
+妈妈果:
+  id: 'APPLE'
+  data: 0
+  name: '&c妈妈果'
+  lore:
+    - '&f长得像苹果，也像你的妈'
+  cmd:
+    - 'give @p@ stone 1'

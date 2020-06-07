@@ -1,0 +1,6 @@
+name: ArtPlant
+version: ${project.version}
+main: com.meteor.artplant.ArtPlant
+authors: [meteor]
+commands:
+  apt:
